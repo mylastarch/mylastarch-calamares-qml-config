@@ -7,7 +7,7 @@
   packages:
     - galculator
     - gpick
-    - flameshot-git
+    - flameshot
     - liferea
     - mediainfo-gui
     - mcomix
