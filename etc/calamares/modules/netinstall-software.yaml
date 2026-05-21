@@ -27,7 +27,6 @@
   selected: false
   critical: false
   expanded: false
-  pre-install: sudo pacman -Sy
   packages:
     - firefox
     - falkon
